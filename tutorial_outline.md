@@ -5,14 +5,13 @@ permalink: /tutorial-outline/
 ---
 
 # Outline of the Covered Topics
+{:.no_toc}
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Part I: Risks and Misuse of AI-Generated Text](#part-i-risks-and-misuse-of-ai-generated-text)
-- [Part II: AI-Generated Text Detection Techniques](#part-ii-ai-generated-text-detection-techniques)
-- [Part III: Vulnerabilities of Detection Techniques](#part-iii-vulnerabilities-of-detection-techniques)
-- [Part IV: Theoretical Perspective on the Possibility of Detection](#part-iv-theoretical-perspective-on-the-possibility-of-detection)
-- [Conclusion and Future Directions](#conclusion-and-future-directions)
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
