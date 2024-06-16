@@ -59,6 +59,11 @@ summary {
 
 // Custom styling for aux links
 .aux-links a {
-  font-size: 3em !important; // Adjust the size as needed
-  font-weight: bold; // Optional: makes the text bold
+  font-size: 2.5em !important; // Ensure no other styles override this
+  font-weight: bold !important; // Optional: makes the text bold
+}
+
+// Custom styling for the search box placeholder
+input[type="search"]::placeholder {
+  font-size: 1.5em !important; // Ensure the search box placeholder text is larger
 }
