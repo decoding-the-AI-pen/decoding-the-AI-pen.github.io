@@ -26,6 +26,15 @@ title: "Home"
 {:toc}
 </details>
 
+<div class="sidebar">
+  <div class="sidebar-image">
+    <img src="{{ site.baseurl }}/assets/images/sidebar.png" alt="Sidebar Image" style="width: 100%; border-radius: 10px;">
+  </div>
+  <nav class="sidebar-nav">
+    <!-- Your existing navigation elements -->
+  </nav>
+</div>
+
 ---
 
 ## Abstract

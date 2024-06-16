@@ -29,6 +29,7 @@ heading_anchors: true
 permalink: pretty
 # search:
 #   placeholder: _includes/search_placeholder_custom.html
+sidebar_image: '/assets/images/sidebar.png'
 aux_links: 
   Complete Slide Deck:
     - 'https://decoding-the-ai-pen.github.io/assets/slides/dummy_slide.pptx'
