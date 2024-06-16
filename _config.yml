@@ -29,9 +29,9 @@ heading_anchors: true
 permalink: pretty
 search:
   placeholder: _includes/search_placeholder_custom.html
-aux_links: _includes/aux_links.html
-  # Complete Slide Deck:
-  #   - 'https://decoding-the-ai-pen.github.io/assets/slides/dummy_slide.pptx'
+aux_links: 
+  Complete Slide Deck:
+    - 'https://decoding-the-ai-pen.github.io/assets/slides/dummy_slide.pptx'
 footer_content:
 
 # Collections for website data
