@@ -57,15 +57,6 @@ summary {
   }
 }
 
-// Custom styling for aux links
-.aux-links a.btn-primary {
-  font-size: 3em !important; // Adjust the size as needed
-  font-weight: bold !important; // Optional: makes the text bold
-  padding: 100px 200px; // Add padding for button effect
-  display: inline-block; // Ensure it behaves like a button
-  text-align: center; // Center the text
-}
-
 // Custom styling for the search box placeholder
 input[type="search"]::placeholder {
   font-size: 3em !important; // Ensure the search box placeholder text is larger
