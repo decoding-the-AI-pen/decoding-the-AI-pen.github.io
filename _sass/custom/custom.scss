@@ -98,7 +98,9 @@ details {
   display: inline-block; /* Fit content width */
   margin-bottom: 1rem;
   border: none;
-  padding: 0;
+  padding: 10px; /* Add a little padding for better visual appeal */
+  background-color: #f8f9fa; /* Optional: Add a background color */
+  border-radius: 5px; /* Optional: Add rounded corners */
 }
 
 summary {
