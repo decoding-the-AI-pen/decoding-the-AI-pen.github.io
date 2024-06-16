@@ -9,7 +9,7 @@ permalink: /authors/
 ## In-Person Presenters
 
 ### Sara Abdali
-<img src="assets/images/sara_photo.jpg" alt="Sara Abdali" style="width:150px; float:left; margin-right:15px;" />
+<img src="{{ site.baseurl }}/assets/images/sara_photo.jpg" alt="Sara Abdali" style="width:150px; float:left; margin-right:15px;" />
 **Affiliation:** Microsoft  
 **Email:** [saraabdali@microsoft.com](mailto:saraabdali@microsoft.com)  
 **Address:** One Microsoft Way Redmond, WA 98052  
@@ -19,7 +19,7 @@ Sara Abdali is a researcher at Applied Sciences Group (ASG) at Microsoft, where 
 <div style="clear:both;"></div>
 
 ### CJ Barberan
-<img src="assets/images/cj_photo.jpg" alt="CJ Barberan" style="width:150px; float:left; margin-right:15px;" />
+<img src="{{ site.baseurl }}/assets/images/cj_photo.jpg" alt="CJ Barberan" style="width:150px; float:left; margin-right:15px;" />
 **Affiliation:** Microsoft  
 **Email:** [cjbarberan@microsoft.com](mailto:cjbarberan@microsoft.com)  
 **Address:** 1 Memorial Dr, Cambridge, MA, USA, 02142  
@@ -29,7 +29,7 @@ CJ Barberan received his PhD in April 2022 from Rice University and now serves a
 <div style="clear:both;"></div>
 
 ### Jia He
-<img src="assets/images/jia_photo.jpg" alt="Jia He" style="width:150px; float:left; margin-right:15px;" />
+<img src="{{ site.baseurl }}/assets/images/jia_photo.jpg" alt="Jia He" style="width:150px; float:left; margin-right:15px;" />
 **Affiliation:** Microsoft  
 **Email:** [hejia@microsoft.com](mailto:hejia@microsoft.com)  
 **Address:** 1 Memorial Dr, Cambridge, MA, USA, 02142  
@@ -41,7 +41,7 @@ Jia is an Applied Scientist at Microsoft. She is part of Microsoft AI Developmen
 ## Contributors
 
 ### Richard Anarfi
-<img src="assets/images/richard_photo.jpg" alt="Richard Anarfi" style="width:150px; float:left; margin-right:15px;" />
+<img src="{{ site.baseurl }}/assets/images/richard_photo.jpg" alt="Richard Anarfi" style="width:150px; float:left; margin-right:15px;" />
 **Affiliation:** Microsoft  
 **Email:** [ranarfi@microsoft.com](mailto:ranarfi@microsoft.com)  
 **Address:** 1 Memorial Dr, Cambridge, MA, USA, 02142  
