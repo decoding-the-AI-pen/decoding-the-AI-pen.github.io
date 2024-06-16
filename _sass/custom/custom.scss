@@ -111,6 +111,12 @@ summary {
   margin: 0;
 }
 
+summary::after {
+  content: " "; /* Add a space after the summary text */
+  display: inline-block;
+  width: 0.5rem; /* Adjust the width as needed */
+}
+
 details[open] summary:before {
   content: "▼";
   display: inline-block;
