@@ -3,7 +3,23 @@ layout: home
 title: "Home"
 ---
 
-# Decoding the AI Pen: Techniques and Challenges in Detecting AI-Generated Text
+---
+layout: home
+title: "Home"
+---
+
+<div style="text-align: center; margin-top: 50px;">
+  <h1 style="font-size: 2.5em; font-weight: bold; color: #2c3e50; text-shadow: 2px 2px #ecf0f1;">
+    Decoding the AI Pen: Techniques and Challenges in Detecting AI-Generated Text
+  </h1>
+</div>
+
+<div style="text-align: center; margin-top: 30px;">
+  <p style="font-size: 1.2em; color: #34495e;">
+    This comprehensive tutorial is designed to educate participants on distinguishing AI-generated text from human-written content. It delves into the transformative impact of large language models on natural language processing and explores the challenges and techniques involved in detecting AI-generated text.
+  </p>
+</div>
+
 {:.no_toc}
 
 ## Table of contents
