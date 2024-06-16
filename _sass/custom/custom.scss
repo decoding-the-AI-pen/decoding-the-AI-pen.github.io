@@ -62,7 +62,9 @@ summary {
   font-size: 1.5em !important; // Adjust the size as needed
   font-weight: bold !important; // Optional: makes the text bold
   padding: 5px 10px; // Add padding for button effect
-  display: inline-block; // Ensure it behaves like a button
+  display: flex !important; // Ensure it behaves like a flex container
+  align-items: center !important; // Vertically center the text
+  justify-content: center !important; // Horizontally center the text
   text-align: center; // Center the text
 }
 
