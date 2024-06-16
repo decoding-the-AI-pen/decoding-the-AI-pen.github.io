@@ -93,13 +93,20 @@ input[type="search"] {
 }
 
 // Custom styling for the dropdown arrow
+/* Adjust the <details> and <summary> elements */
 details {
   margin-bottom: 1rem;
+  border: none; /* Remove the border */
+  padding: 0; /* Remove any padding */
+  width: auto; /* Adjust the width to fit content */
 }
 
 summary {
   cursor: pointer;
   list-style: none;
+  padding: 0; /* Remove any padding */
+  font-size: 1.25rem; /* Adjust the font size as needed */
+  margin: 0; /* Remove any margin */
 }
 
 details[open] summary:before {
