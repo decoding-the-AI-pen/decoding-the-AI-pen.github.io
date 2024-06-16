@@ -1,0 +1,7 @@
+{% if site.aux_links %}
+  <ul class="aux-links">
+    {% for text, url in site.aux_links %}
+      <li><a href="{{ url }}" class="btn btn-primary complete-slide-deck">{{ text }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}
