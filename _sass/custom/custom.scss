@@ -59,7 +59,7 @@ summary {
 
 // Custom styling for aux-links
 .aux-nav .aux-nav-list .site-button {
-  font-size: 1em !important; // Adjust the size as needed
+  font-size: 1.5em !important; // Adjust the size as needed
   font-weight: bold !important; // Optional: makes the text bold
   padding: 5px 10px; // Add padding for button effect
   display: inline-block; // Ensure it behaves like a button
@@ -68,9 +68,9 @@ summary {
 
 // Custom styling for the search box placeholder
 input[type="search"]::placeholder {
-  font-size: 1em !important; // Ensure the search box placeholder text is larger
+  font-size: 1.5em !important; // Ensure the search box placeholder text is larger
 }
 
 input[type="search"] {
-  font-size: 1em !important; // Ensure the search box text is larger
+  font-size: 1.5em !important; // Ensure the search box text is larger
 }
