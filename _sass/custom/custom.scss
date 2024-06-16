@@ -76,3 +76,17 @@ input[type="search"]::placeholder {
 input[type="search"] {
   font-size: 1.5em !important; // Ensure the search box text is larger
 }
+
+// Custom styling for the left pane titles
+.nav-list .nav-list-item {
+  font-size: 1.25rem !important; // Adjust the size as needed
+}
+
+.nav-list .nav-list-item .nav-list-link {
+  line-height: 2.5rem; // Adjust the line height if necessary
+}
+
+.nav-list .nav-list-item .nav-list-link.active {
+  font-weight: 600;
+  text-decoration: none;
+}
