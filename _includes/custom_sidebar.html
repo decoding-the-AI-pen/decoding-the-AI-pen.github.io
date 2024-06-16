@@ -1,6 +1,8 @@
 <!-- _includes/custom_sidebar.html -->
-<div class="sidebar-image">
-    <img src="{{ site.sidebar_image }}" alt="Sidebar Image" style="width: 100%; border-radius: 10px; margin-bottom: 20px;">
+<div class="sidebar">
+    {% include components/sidebar.html %}
+    <div class="sidebar-image">
+      <img src="{{ site.sidebar_image }}" alt="Sidebar Image">
+    </div>
   </div>
-  {% include components/sidebar.html %}
   
