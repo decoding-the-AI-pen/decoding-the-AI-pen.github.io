@@ -30,8 +30,10 @@ permalink: pretty
 search:
   placeholder: _includes/search_placeholder_custom.html
 aux_links:
-  Complete Slide Deck:
-    - 'https://decoding-the-ai-pen.github.io/assets/slides/dummy_slide.pptx'
+  include: _includes/aux_links.html
+  links:
+    Complete Slide Deck:
+      - 'https://decoding-the-ai-pen.github.io/assets/slides/dummy_slide.pptx'
 footer_content:
 
 # Collections for website data
