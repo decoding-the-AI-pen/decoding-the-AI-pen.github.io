@@ -19,7 +19,7 @@ description: A tutorial on distinguishing AI-generated text from human-written c
 author: Richard Anarfi
 baseurl: '' 
 url: 'https://decoding-the-AI-pen.github.io' 
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.8.2
