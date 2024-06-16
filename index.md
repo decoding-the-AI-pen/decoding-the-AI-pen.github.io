@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-# Welcome to Decoding the AI Pen
+# Decoding the AI Pen: Techniques and Challenges in Detecting AI-Generated Text
 {:.no_toc}
 
 ## Table of contents
@@ -15,8 +15,6 @@ title: "Home"
 ---
 
 ## Abstract
-**Decoding the AI Pen: Techniques and Challenges in Detecting AI-Generated Text**
-
 Large Language Models (LLMs) have revolutionized Natural Language Processing (NLP), enabling applications from question answering to text generation. However, distinguishing between human and AI-generated text is increasingly critical due to the sophistication of modern models. This tutorial addresses the need for robust detection techniques, exploring existing strategies, their vulnerabilities, and broader implications. Our goals are to:
 1. Investigate the risks and ethical challenges related to AI-generated text.
 2. Provide an overview of AI-generated text detection methods, highlighting both traditional and cutting-edge techniques.
