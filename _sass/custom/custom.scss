@@ -91,3 +91,25 @@ input[type="search"] {
   font-weight: 600;
   text-decoration: none;
 }
+
+// Custom styling for the dropdown arrow
+details {
+  margin-bottom: 1rem;
+}
+
+summary {
+  cursor: pointer;
+  list-style: none;
+}
+
+details[open] summary:before {
+  content: "▼"; /* Unicode character for down arrow */
+  display: inline-block;
+  margin-right: 0.5rem;
+}
+
+summary:before {
+  content: "►"; /* Unicode character for right arrow */
+  display: inline-block;
+  margin-right: 0.5rem;
+}
