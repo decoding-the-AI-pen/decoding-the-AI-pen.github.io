@@ -3,11 +3,6 @@ layout: home
 title: "Home"
 ---
 
----
-layout: home
-title: "Home"
----
-
 <div style="text-align: center; margin-top: 50px;">
   <h1 style="font-size: 2.5em; font-weight: bold; color: #2c3e50; text-shadow: 2px 2px #ecf0f1;">
     Decoding the AI Pen: Techniques and Challenges in Detecting AI-Generated Text
