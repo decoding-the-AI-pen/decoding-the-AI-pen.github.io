@@ -79,11 +79,12 @@ input[type="search"] {
 
 // Custom styling for the left pane titles
 .nav-list .nav-list-item {
-  font-size: 1.25rem !important; // Adjust the size as needed
+  font-size: 1.15rem !important; // Adjust the size slightly smaller to fit
 }
 
 .nav-list .nav-list-item .nav-list-link {
-  line-height: 2.5rem; // Adjust the line height if necessary
+  line-height: 1.5rem; // Adjust the line height if necessary
+  white-space: nowrap; // Prevent text from wrapping to the next line
 }
 
 .nav-list .nav-list-item .nav-list-link.active {
