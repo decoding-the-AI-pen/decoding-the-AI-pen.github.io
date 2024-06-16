@@ -137,8 +137,10 @@ summary:before {
   width: 250px;
   padding-top: 3rem;
   padding-bottom: 1rem;
+  padding-right: 20px; /* Add padding to avoid overlap */
   overflow-y: auto;
   flex-shrink: 0;
+  position: relative;
 }
 
 .sidebar-image {
@@ -154,5 +156,5 @@ summary:before {
 
 .main-content {
   flex: 1;
-  padding-left: 20px;
+  padding: 20px;
 }

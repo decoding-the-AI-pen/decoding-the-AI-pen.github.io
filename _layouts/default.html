@@ -10,7 +10,7 @@
       {% include components/breadcrumbs.html %}
 
       {% if site.heading_anchors != false %}
-        {% include vendor/anchor_headings.html html=content %}
+        {% include vendor/anchor_headings.html %}
       {% else %}
         {{ content }}
       {% endif %}
