@@ -4,17 +4,21 @@
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+  <!-- Include other necessary CSS files here -->
 </head>
 <body>
   <header>
     <!-- Other header elements -->
-    <input type="search" placeholder="Search Decoding the AI Pen">
+    <input type="search" placeholder="Search {{ site.title }}">
   </header>
-  <!-- Other body elements -->
+  <main>
+    {{ content }}
+  </main>
   <footer>
     <ul class="aux-links">
       <li><a href="https://decoding-the-ai-pen.github.io/assets/slides/dummy_slide.pptx" class="complete-slide-deck">Complete Slide Deck</a></li>
     </ul>
   </footer>
+  <!-- Include other necessary JS files here -->
 </body>
 </html>
