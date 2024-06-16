@@ -49,3 +49,5 @@ For detailed information on the topics covered in this tutorial, visit the [Tuto
 Learn more about our expert tutors on the [Tutors and Contributors](./authors) page.
 
 Explore the sections to learn more about the transformative impact of LLMs on NLP, the risks associated with AI-generated text, the detection techniques used, and the future of this exciting field.
+
+{% include site.aux_links %}
