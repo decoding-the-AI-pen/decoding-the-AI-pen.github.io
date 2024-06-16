@@ -8,9 +8,9 @@ permalink: /authors/
 
 ## In-Person Presenters
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-direction: column; gap: 20px;">
 
-  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; width: 100%; max-width: 400px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <div style="display: flex; align-items: flex-start; background-color: #f8f9fa; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <img src="{{ site.baseurl }}/assets/images/sara_photo.jpg" alt="Sara Abdali" style="width:100px; height:100px; border-radius:50%; margin-right:15px;" /> 
     <div>
       <strong><a href="mailto:saraabdali@microsoft.com">Dr. Sara Abdali</a></strong><br>
@@ -18,7 +18,7 @@ permalink: /authors/
     </div>
   </div>
 
-  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; width: 100%; max-width: 400px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <div style="display: flex; align-items: flex-start; background-color: #f8f9fa; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <img src="{{ site.baseurl }}/assets/images/cj_photo.jpg" alt="CJ Barberan" style="width:100px; height:100px; border-radius:50%; margin-right:15px;" /> 
     <div>
       <strong><a href="mailto:cjbarberan@microsoft.com">Dr. CJ Barberan</a></strong><br>
@@ -26,7 +26,7 @@ permalink: /authors/
     </div>
   </div>
 
-  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; width: 100%; max-width: 400px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <div style="display: flex; align-items: flex-start; background-color: #f8f9fa; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <img src="{{ site.baseurl }}/assets/images/jia_photo.jpg" alt="Jia He" style="width:100px; height:100px; border-radius:50%; margin-right:15px;" /> 
     <div>
       <strong><a href="mailto:hejia@microsoft.com">Dr. Jia He</a></strong><br>
@@ -38,9 +38,9 @@ permalink: /authors/
 
 ## Contributors
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-direction: column; gap: 20px;">
 
-  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; width: 100%; max-width: 400px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <div style="display: flex; align-items: flex-start; background-color: #f8f9fa; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <img src="{{ site.baseurl }}/assets/images/richard_photo.jpg" alt="Richard Anarfi" style="width:100px; height:100px; border-radius:50%; margin-right:15px;" /> 
     <div>
       <strong><a href="mailto:ranarfi@microsoft.com">Dr. Richard Anarfi</a></strong><br>
