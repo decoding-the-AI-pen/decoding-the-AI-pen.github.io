@@ -31,7 +31,9 @@ permalink: /tutorial-outline/
   <div id="part-i-risks-and-misuse-of-ai-generated-text" style="background-color: #e9f7ef; padding: 20px; border-radius: 10px;">
     <h2>Part I: Risks and Misuse of AI-Generated Text</h2>
     <ul>
-      In this section, we will delve into the ethical challenges associated with AI-generated text, such as the creation of biased or toxic content [1,2]. We will also address the intricate issue of detecting implicit toxic outputs, a significant challenge underscored by the work of Wen et al. [3]. Finally, we will explore effective mitigation strategies to address these concerns, focusing on enhancing data diversity and implementing fairness metrics, following the guidance provided by Weidinger et al. [4].
+      In this section, we will delve into the ethical challenges associated with AI-generated text, such as the creation of biased or toxic content [1,2]. We will also address the intricate issue of detecting implicit toxic outputs, a significant challenge underscored by the work of Wen et al. [3]. Finally, we will explore effective mitigation strategies to address these concerns, focusing on enhancing data diversity and implementing fairness metrics, following the guidance provided by Weidinger et al.[4].
+    </ul>
+    <ul>
     [1] Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, and
 Karthik Narasimhan. 2023. Toxicity in chatgpt: Analyzing persona-assigned
 language models. In Findings of the Association for Computational Linguistics:
