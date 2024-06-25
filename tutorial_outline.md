@@ -35,6 +35,9 @@ permalink: /tutorial-outline/
       <li>Challenges in detecting implicit toxic outputs by LLMs.</li>
       <li>Strategies for Mitigating Risks and Enhancing Ethical AI Practices.</li>
     </ul>
+    <ul>
+      In this section, we will delve into the ethical challenges associated with AI-generated text, such as the creation of biased or toxic content~\cite{gehman-etal-2020-realtoxicityprompts,deshpande-etal-2023-toxicity}. We will also address the intricate issue of detecting implicit toxic outputs, a significant challenge underscored by the work of Wen et al.~\cite{Wen2023UnveilingTI}. Finally, we will explore effective mitigation strategies to address these concerns, focusing on enhancing data diversity and implementing fairness metrics, following the guidance provided by Weidinger et al.~\cite{Weidinger-        taxonomy}.
+    </ul>
     <h3>Tutor: Dr. CJ Barberan</h3>
     <h3>Resources</h3>
     <p><a href="assets/slides/dummy_slide.pptx" download>Slides</a></p>
