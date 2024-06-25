@@ -114,10 +114,10 @@ effective defense. Advances in Neural Information Processing Systems 36 (2024). 
     <ul>
     <li> [1] Vinu Sankar Sadasivan, Aounon Kumar, Sriram Balasubramanian, Wenxiao Wang,
 and Soheil Feizi. 2024. Can AI-Generated Text be Reliably Detected? </li>
-    [2] Souradip Chakraborty, A. S. Bedi, Sicheng Zhu, Bang An, Dinesh Manocha, and
+   <li> [2] Souradip Chakraborty, A. S. Bedi, Sicheng Zhu, Bang An, Dinesh Manocha, and
 Furong Huang. 2023. On the Possibilities of AI-Generated Text Detection. ArXiv
 abs/2304.04736 (2023). </li>
-    [3] Hanlin Zhang, Benjamin L. Edelman, Danilo Francati, Daniele Venturi, Giuseppe
+    <li> [3] Hanlin Zhang, Benjamin L. Edelman, Danilo Francati, Daniele Venturi, Giuseppe
 Ateniese, and Boaz Barak. 2023. Watermarks in the Sand: Impossibility of
 Strong Watermarking for Generative Models. Cryptology ePrint Archive, Paper
 2023/1776. </li>
