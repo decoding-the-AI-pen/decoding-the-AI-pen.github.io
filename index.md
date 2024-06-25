@@ -15,6 +15,8 @@ title: "Home"
   </p>
   <p style="font-size: 1.2em; color: #34495e;">
     Date: August 25, 2024
+  </p>
+  <p style="font-size: 1.2em; color: #34495e;">
     Time: 10 AM - 1 PM
   </p>
 </div>
