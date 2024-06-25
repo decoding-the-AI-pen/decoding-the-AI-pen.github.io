@@ -94,8 +94,12 @@ Conference on Machine Learning. </li>
   <div id="part-iii-vulnerabilities-of-detection-techniques" style="background-color: #f5eef8; padding: 20px; border-radius: 10px;">
     <h2>Part III: Vulnerabilities of Detection Techniques</h2>
     <ul>
-      <li>The susceptibility of detection methods to adversarial attacks, including data poisoning and paraphrasing.</li>
-      <li>The practical challenges of implementing detection techniques in real-world scenarios.</li>
+      Additionally, we will analyze various detection strategies in terms of these vulnerabilities and put forth an optimal approach for each scenario to mitigate the risks posed by such attacks. Specifically we focus on paraphrasing attacks, spoofing attacks, rewording attacks, and data poisoning attacks with an emphasis on the research contributions of Krishna et al [1].
+    </ul>
+     <ul>
+   <li> [1] Kalpesh Krishna, Yixiao Song, Marzena Karpinska, John Wieting, and Mohit
+Iyyer. 2024. Paraphrasing evades detectors of ai-generated text, but retrieval is an
+effective defense. Advances in Neural Information Processing Systems 36 (2024). </li>
     </ul>
     <h3>Tutor: Dr. Jia He</h3>
     <h3>Resources</h3>
@@ -105,8 +109,17 @@ Conference on Machine Learning. </li>
   <div id="part-iv-theoretical-perspective-on-the-possibility-of-detection" style="background-color: #ebf5fb; padding: 20px; border-radius: 10px;">
     <h2>Part IV: Theoretical Perspective on the Possibility of Detection</h2>
     <ul>
-      <li>Formulating the fundamental feasibility of detection.</li>
-      <li>Theoretical limitations and boundaries of detection.</li>
+      In this section, we will explore the theoretical boundaries and possibilities of detecting AI-generated text. We will discuss the insights from Sadasivan et al. [1], who outline theoretical limits to detection capabilities, noting that the effectiveness of current methods may wane as language models evolve. Conversely, we will also present the findings from Chakraborty et al. [2], who argue for the feasibility of distinguishing between human and AI-generated texts with enough data. Additionally, we will delve into the work by Zhang et al. [3], addressing the complexities of implementing watermarking in generative models. Through these discussions, we aim to enhance the participants' understanding of the theoretical landscape surrounding AI-generated text detection.
+    </ul>
+    <li> [1] Vinu Sankar Sadasivan, Aounon Kumar, Sriram Balasubramanian, Wenxiao Wang,
+and Soheil Feizi. 2024. Can AI-Generated Text be Reliably Detected? </li>
+    [2] Souradip Chakraborty, A. S. Bedi, Sicheng Zhu, Bang An, Dinesh Manocha, and
+Furong Huang. 2023. On the Possibilities of AI-Generated Text Detection. ArXiv
+abs/2304.04736 (2023). </li>
+    [3] Hanlin Zhang, Benjamin L. Edelman, Danilo Francati, Daniele Venturi, Giuseppe
+Ateniese, and Boaz Barak. 2023. Watermarks in the Sand: Impossibility of
+Strong Watermarking for Generative Models. Cryptology ePrint Archive, Paper
+2023/1776. </li>
     </ul>
     <h3>Tutor: Dr. Sara Abdali</h3>
     <h3>Resources</h3>
