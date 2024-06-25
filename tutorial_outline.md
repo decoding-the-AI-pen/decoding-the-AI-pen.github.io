@@ -31,7 +31,7 @@ permalink: /tutorial-outline/
   <div id="part-i-risks-and-misuse-of-ai-generated-text" style="background-color: #e9f7ef; padding: 20px; border-radius: 10px;">
     <h2>Part I: Risks and Misuse of AI-Generated Text</h2>
     <ul>
-      In this section, we will delve into the ethical challenges associated with AI-generated text, such as the creation of biased or toxic content [1,2]. We will also address the intricate issue of detecting implicit toxic outputs, a significant challenge underscored by the work of Wen et al. [3]. Finally, we will explore effective mitigation strategies to address these concerns, focusing on enhancing data diversity and implementing fairness metrics, following the guidance provided by Weidinger et al.[4].
+      In this section, we will delve into the ethical challenges associated with AI-generated text, such as the creation of biased or toxic content [1,2]. We will also address the intricate issue of detecting implicit toxic outputs, a significant challenge underscored by the work of Wen et al. [3]. Finally, we will explore effective mitigation strategies to address these concerns, focusing on enhancing data diversity and implementing fairness metrics, following the guidance provided by Weidinger et al. [4].
     </ul>
     <ul>
    <li> [1] Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, and
@@ -63,9 +63,28 @@ York, NY, USA, 214–229. </li>
   <div id="part-ii-ai-generated-text-detection-techniques" style="background-color: #fef9e7; padding: 20px; border-radius: 10px;">
     <h2>Part II: AI-Generated Text Detection Techniques</h2>
     <ul>
-      <li>Evaluating ChatGPT Detectors Across Contexts and Attack Schemes.</li>
-      <li>Zero-shot detection methods and their application.</li>
-      <li>The role of retrieval-based detection, watermarking and discriminating features in identifying AI-generated text.</li>
+In this section, we will examine ChatGPT text detection via dataset adaptation, highlighting its domain-specific performance and limitations in novel settings, based on the findings of Antoun et al. [1].
+ Furthermore, we'll explore zero-shot detectors leveraging pre-trained models, offering a reduction in data and resource overheads but remaining susceptible to spoofing and paraphrasing attacks [2,3,4]. Our discourse extends to retrieval-based detection and watermarking, highlighting their limitations in practical deployment and susceptibility to evasion strategies [5]. Finally we discuss works that identify and leverage distinguishing features for detection [3,4].
+    </ul>
+        <ul>
+   <li> [1] Wissam Antoun, Virginie Mouilleron, Benoît Sagot, and Djamé Seddah. 2023.
+Towards a Robust Detection of Language Model-Generated Text: Is ChatGPT that
+easy to detect?. In Actes de CORIA-TALN 2023. Actes de la 30e Conférence sur le
+Traitement Automatique des Langues Naturelles (TALN), volume 1: travaux de
+recherche originaux–articles longs. 14–27. </li>
+    <li> [2] 023. ZeroGPT: AI Text Detector. https://www.zerogpt.com </li> 
+    <li> [3] Eric Mitchell, Yoonho Lee, Alexander Khazatsky, Christopher D Manning, and
+Chelsea Finn. 2023. Detectgpt: Zero-shot machine-generated text detection using
+probability curvature. In International Conference on Machine Learning. PMLR,
+24950–24962. </li>
+    <li> [4] Jinyan Su, Terry Zhuo, Di Wang, and Preslav Nakov. 2023. DetectLLM: Leverag-
+ing Log Rank Information for Zero-Shot Detection of Machine-Generated Text. In
+Findings of the Association for Computational Linguistics: EMNLP 2023, Houda
+Bouamor, Juan Pino, and Kalika Bali (Eds.). Association for Computational Lin-
+guistics, Singapore, 12395–12412. </li>
+     <li> [5] John Kirchenbauer, Jonas Geiping, Yuxin Wen, Jonathan Katz, Ian Miers, and
+Tom Goldstein. 2023. A Watermark for Large Language Models. In International
+Conference on Machine Learning. </li>
     </ul>
     <h3>Tutor: Dr. Sara Abdali</h3>
     <h3>Resources</h3>
