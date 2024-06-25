@@ -34,26 +34,26 @@ permalink: /tutorial-outline/
       In this section, we will delve into the ethical challenges associated with AI-generated text, such as the creation of biased or toxic content [1,2]. We will also address the intricate issue of detecting implicit toxic outputs, a significant challenge underscored by the work of Wen et al. [3]. Finally, we will explore effective mitigation strategies to address these concerns, focusing on enhancing data diversity and implementing fairness metrics, following the guidance provided by Weidinger et al.[4].
     </ul>
     <ul>
-    [1] Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, and
+   <li> [1] Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, and
 Karthik Narasimhan. 2023. Toxicity in chatgpt: Analyzing persona-assigned
 language models. In Findings of the Association for Computational Linguistics:
 EMNLP 2023, Houda Bouamor, Juan Pino, and Kalika Bali (Eds.). Association
-for Computational Linguistics, Singapore, 1236–1270.
-    [2] Samuel Gehman, Suchin Gururangan, Maarten Sap, Yejin Choi, and Noah A.
+for Computational Linguistics, Singapore, 1236–1270. </li>
+    <li> [2] Samuel Gehman, Suchin Gururangan, Maarten Sap, Yejin Choi, and Noah A.
 Smith. 2020. RealToxicityPrompts: Evaluating Neural Toxic Degeneration in
 Language Models. In Findings of the Association for Computational Linguistics:
 EMNLP 2020, Trevor Cohn, Yulan He, and Yang Liu (Eds.). Association for
-Computational Linguistics, Online, 3356–3369 
-    [3] Jiaxin Wen, Pei Ke, Hao Sun, Zhexin Zhang, Chengfei Li, Jinfeng Bai, and Minlie
+Computational Linguistics, Online, 3356–3369. </li> 
+    <li>[3] Jiaxin Wen, Pei Ke, Hao Sun, Zhexin Zhang, Chengfei Li, Jinfeng Bai, and Minlie
 Huang. 2023. Unveiling the Implicit Toxicity in Large Language Models. In
-Conference on Empirical Methods in Natural Language Processing.
-    [4] Laura Weidinger, Jonathan Uesato, Maribeth Rauh, Conor Griffin, Po-Sen Huang,
+Conference on Empirical Methods in Natural Language Processing. </li>
+    <li>[4] Laura Weidinger, Jonathan Uesato, Maribeth Rauh, Conor Griffin, Po-Sen Huang,
 John Mellor, Amelia Glaese, Myra Cheng, Borja Balle, Atoosa Kasirzadeh, Court-
 ney Biles, Sasha Brown, Zac Kenton, Will Hawkins, Tom Stepleton, Abeba
 Birhane, Lisa Anne Hendricks, Laura Rimell, William Isaac, Julia Haas, Sean
 Legassick, Geoffrey Irving, and Iason Gabriel. 2022. Taxonomy of Risks posed
 by Language Models (FAccT ’22). Association for Computing Machinery, New
-York, NY, USA, 214–229.
+York, NY, USA, 214–229. </li>
     </ul>
     <h3>Tutor: Dr. CJ Barberan</h3>
     <h3>Resources</h3>
