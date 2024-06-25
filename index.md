@@ -13,6 +13,10 @@ title: "Home"
   <p style="font-size: 1.2em; color: #34495e;">
     This comprehensive tutorial is designed to educate participants on distinguishing AI-generated text from human-written content. It delves into the transformative impact of large language models on natural language processing and explores the challenges and techniques involved in detecting AI-generated text.
   </p>
+  <p style="font-size: 1.2em; color: #34495e;">
+    Date: August 25, 2024
+    Time: 10 AM - 1 PM
+  </p>
 </div>
 
 {:.no_toc}
