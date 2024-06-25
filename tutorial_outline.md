@@ -111,6 +111,7 @@ effective defense. Advances in Neural Information Processing Systems 36 (2024). 
     <ul>
       In this section, we will explore the theoretical boundaries and possibilities of detecting AI-generated text. We will discuss the insights from Sadasivan et al. [1], who outline theoretical limits to detection capabilities, noting that the effectiveness of current methods may wane as language models evolve. Conversely, we will also present the findings from Chakraborty et al. [2], who argue for the feasibility of distinguishing between human and AI-generated texts with enough data. Additionally, we will delve into the work by Zhang et al. [3], addressing the complexities of implementing watermarking in generative models. Through these discussions, we aim to enhance the participants' understanding of the theoretical landscape surrounding AI-generated text detection.
     </ul>
+    <ul>
     <li> [1] Vinu Sankar Sadasivan, Aounon Kumar, Sriram Balasubramanian, Wenxiao Wang,
 and Soheil Feizi. 2024. Can AI-Generated Text be Reliably Detected? </li>
     [2] Souradip Chakraborty, A. S. Bedi, Sicheng Zhu, Bang An, Dinesh Manocha, and
