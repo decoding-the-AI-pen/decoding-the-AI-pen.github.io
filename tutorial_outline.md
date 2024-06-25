@@ -34,6 +34,7 @@ permalink: /tutorial-outline/
       In this section, we will delve into the ethical challenges associated with AI-generated text, such as the creation of biased or toxic content [1,2]. We will also address the intricate issue of detecting implicit toxic outputs, a significant challenge underscored by the work of Wen et al. [3]. Finally, we will explore effective mitigation strategies to address these concerns, focusing on enhancing data diversity and implementing fairness metrics, following the guidance provided by Weidinger et al. [4].
     </ul>
     <ul>
+      <h6>
    <li> [1] Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, and
 Karthik Narasimhan. 2023. Toxicity in chatgpt: Analyzing persona-assigned
 language models. In Findings of the Association for Computational Linguistics:
@@ -54,6 +55,7 @@ Birhane, Lisa Anne Hendricks, Laura Rimell, William Isaac, Julia Haas, Sean
 Legassick, Geoffrey Irving, and Iason Gabriel. 2022. Taxonomy of Risks posed
 by Language Models (FAccT ’22). Association for Computing Machinery, New
 York, NY, USA, 214–229. </li>
+      </h6>
     </ul>
     <h3>Tutor: Dr. CJ Barberan</h3>
     <h3>Resources</h3>
