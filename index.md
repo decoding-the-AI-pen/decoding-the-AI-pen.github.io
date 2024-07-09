@@ -58,3 +58,19 @@ For detailed information on the topics covered in this tutorial, visit the [Tuto
 Learn more about our expert tutors on the [Tutors and Contributors](./authors) page.
 
 Explore the sections to learn more about the transformative impact of LLMs on NLP, the risks associated with AI-generated text, the detection techniques used, and the future of this exciting field.
+
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>@inproceedings{kdd2023-text-editing-tutorial,
+author = {Abdali, Sara and Anarfi, Richard and Barberan, CJ and He, Jia},
+title = {Decoding the AI Pen: Techniques and Challenges in Detecting AI-Generated Text},
+year = {2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3637528.3671463},
+doi = {10.1145/3637528.3671463},
+booktitle = {Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+location = {Barcelona, Spain},
+series = {KDD '24}
+}</code></pre>
+  </div>
