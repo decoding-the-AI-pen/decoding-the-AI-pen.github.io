@@ -25,7 +25,7 @@ permalink: /tutorial-outline/
     </ul>
     <h3>Tutor: Dr. Jia He</h3>
     <h3>Resources</h3>
-    <p><a href="assets/slides/DecodingtheAIPen.pdf" download="AIPen">Slides</a></p>
+    <p><a href="assets/slides/DecodingtheAIPen.pdf" download="DecodingtheAIPen.pdf">Download Slides</a></p>
   </div>
 
   <div id="part-i-risks-and-misuse-of-ai-generated-text" style="background-color: #e9f7ef; padding: 20px; border-radius: 10px;">
@@ -59,7 +59,7 @@ York, NY, USA, 214–229. </li>
     </ul>
     <h3>Tutor: Dr. CJ Barberan</h3>
     <h3>Resources</h3>
-    <p><a href="assets/slides/DecodingtheAIPen.pdf" download>Slides</a></p>
+    <p><a href="assets/slides/DecodingtheAIPen.pdf" download="DecodingtheAIPen.pdf">Download Slides</a></p>
   </div>
 
   <div id="part-ii-ai-generated-text-detection-techniques" style="background-color: #fef9e7; padding: 20px; border-radius: 10px;">
