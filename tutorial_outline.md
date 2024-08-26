@@ -59,7 +59,7 @@ York, NY, USA, 214–229. </li>
     </ul>
     <h3>Tutor: Dr. CJ Barberan</h3>
     <h3>Resources</h3>
-    <p><a href="assets/slides/dummy_slide.pptx" download>Slides</a></p>
+    <p><a href="assets/slides/DecodingtheAIPen.pdf" download>Slides</a></p>
   </div>
 
   <div id="part-ii-ai-generated-text-detection-techniques" style="background-color: #fef9e7; padding: 20px; border-radius: 10px;">
@@ -92,7 +92,7 @@ Conference on Machine Learning. </li>
     </ul>
     <h3>Tutor: Dr. Sara Abdali</h3>
     <h3>Resources</h3>
-    <p><a href="assets/slides/dummy_slide.pptx" download>Slides</a></p>
+    <p><a href="assets/slides/DecodingtheAIPen.pdf" download>Slides</a></p>
   </div>
 
   <div id="part-iii-vulnerabilities-of-detection-techniques" style="background-color: #f5eef8; padding: 20px; border-radius: 10px;">
@@ -109,7 +109,7 @@ effective defense. Advances in Neural Information Processing Systems 36 (2024). 
     </ul>
     <h3>Tutor: Dr. Jia He</h3>
     <h3>Resources</h3>
-    <p><a href="assets/slides/dummy_slide.pptx" download>Slides</a></p>
+    <p><a href="assets/slides/DecodingtheAIPen.pdf" download>Slides</a></p>
   </div>
 
   <div id="part-iv-theoretical-perspective-on-the-possibility-of-detection" style="background-color: #ebf5fb; padding: 20px; border-radius: 10px;">
@@ -132,7 +132,7 @@ Strong Watermarking for Generative Models. Cryptology ePrint Archive, Paper
     </ul>
     <h3>Tutor: Dr. Sara Abdali</h3>
     <h3>Resources</h3>
-    <p><a href="assets/slides/dummy_slide.pptx" download>Slides</a></p>
+    <p><a href="assets/slides/DecodingtheAIPen.pdf" download>Slides</a></p>
   </div>
 
   <div id="conclusion-and-future-directions" style="background-color: #e8f8f5; padding: 20px; border-radius: 10px;">
@@ -144,7 +144,7 @@ Strong Watermarking for Generative Models. Cryptology ePrint Archive, Paper
     </ul>
     <h3>Tutor: Dr. CJ Barberan</h3>
     <h3>Resources</h3>
-    <p><a href="assets/slides/dummy_slide.pptx" download>Slides</a></p>
+    <p><a href="assets/slides/DecodingtheAIPen.pdf" download>Slides</a></p>
   </div>
 
 </div>
