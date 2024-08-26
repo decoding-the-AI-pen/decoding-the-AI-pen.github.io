@@ -25,7 +25,7 @@ permalink: /tutorial-outline/
     </ul>
     <h3>Tutor: Dr. Jia He</h3>
     <h3>Resources</h3>
-    <p><a href="assets/slides/DecodingtheAIPen.pdf" download="DecodingtheAIPen.pdf">Download Slides</a></p>
+    <p><a href="{{ site.baseurl }}/assets/slides/DecodingtheAIPen.pdf" download="DecodingtheAIPen.pdf">Download Slides</a></p>
   </div>
 
   <div id="part-i-risks-and-misuse-of-ai-generated-text" style="background-color: #e9f7ef; padding: 20px; border-radius: 10px;">
