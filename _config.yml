@@ -31,8 +31,8 @@ permalink: pretty
 #   placeholder: _includes/search_placeholder_custom.html
 sidebar_image: '/assets/images/sidebar.png'
 aux_links: 
-  Complete Slide Deck:
-    - 'https://decoding-the-ai-pen.github.io/assets/slides/dummy_slide.pptx'
+  Download Slides:
+    - 'https://decoding-the-ai-pen.github.io/assets/slides/DecodingtheAIPen.pdf'
 footer_content:
 
 # Collections for website data
