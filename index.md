@@ -61,7 +61,7 @@ Explore the sections to learn more about the transformative impact of LLMs on NL
 
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
-    <pre><code>@inproceedings{kdd2023-text-editing-tutorial,
+    <pre><code>@inproceedings{kdd2024-text-editing-tutorial,
 author = {Abdali, Sara and Anarfi, Richard and Barberan, CJ and He, Jia},
 title = {Decoding the AI Pen: Techniques and Challenges in Detecting AI-Generated Text},
 year = {2024},
