@@ -11,7 +11,7 @@ title: "Home"
 
 <div style="text-align: center; margin-top: 30px;">
   <p style="font-size: 1.2em; color: #34495e;">
-    This comprehensive tutorial is designed to educate participants on distinguishing AI-generated text from human-written content. It delves into the transformative impact of large language models on natural language processing and explores the challenges and techniques involved in detecting AI-generated text.
+    This comprehensive tutorial is designed to educate participants on the responsible use of Large Language Models (LLMs), with an emphesise on practical and theoretical aspects of detecting AI-generated text.
   </p>
   <p style="font-size: 1.2em; color: #34495e;">
     Date: August 25, 2024
@@ -20,7 +20,7 @@ title: "Home"
     Time: 10 AM - 1 PM
   </p>
 </div>
-<img src="{{ site.baseurl }}/assets/images/overview.png" alt="Overview of the Tutorial" class="right-aligned">
+<img src="{{ site.baseurl }}/assets/images/overview.png" alt="Overview of the Tutorial" class="center-aligned">
 
 
 {:.no_toc}
