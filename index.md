@@ -20,6 +20,8 @@ title: "Home"
     Time: 10 AM - 1 PM
   </p>
 </div>
+<img src="{{ site.baseurl }}/assets/images/overview.jpg" alt="Overview of the Tutorial" class="right-aligned">
+
 
 {:.no_toc}
 
