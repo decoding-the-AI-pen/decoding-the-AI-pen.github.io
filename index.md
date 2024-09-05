@@ -58,8 +58,8 @@ For detailed information on the topics covered in this tutorial, visit the [Tuto
 Learn more about our expert tutors on the [Tutors and Contributors](./authors) page.
 
 Explore the sections to learn more about the transformative impact of LLMs on NLP, the risks associated with AI-generated text, the detection techniques used, and the future of this exciting field.
-
-<a href="https://dl.acm.org/doi/10.1145/3637528.3671463">https://dl.acm.org/doi/10.1145/3637528.3671463</a>
+<h2 class="title">Paper Link</h2>
+<a href="https://dl.acm.org/doi/10.1145/3637528.3671463">Decoding the AI Pen: Techniques and Challenges in Detecting AI-Generated Text</a>
 
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
