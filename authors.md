@@ -14,7 +14,7 @@ permalink: /authors/
     <img src="{{ site.baseurl }}/assets/images/sara_photo.jpg" alt="Sara Abdali" style="width:100px; height:100px; border-radius:50%; margin-right:15px;" /> 
     <div>
       <strong><a href="mailto:saraabdali@microsoft.com">Dr. Sara Abdali</a></strong><br>
-      Sara Abdali is a researcher at Applied Sciences Group (ASG) at Microsoft, where she actively contributes to NLP and Multimodal Generative AI projects. Prior to joining Microsoft, she was selected as a postdoctoral CIFellow at Georgia Tech, where she received funding from the NSF to work on "Adversarially Robust Multimodal Misinformation Detection". Additionally, she was a recipient of the Dean’s Distinguished Fellowship Award for her Ph.D. studies at the University of California, Riverside (UCR). Her research during this time spanned various areas, including misinformation detection, deep fake video detection, and other NLP projects.
+      Sara Abdali is a senior researcher at Applied Sciences Group (ASG) at Microsoft, where she actively contributes to NLP and Multimodal Generative AI projects. Prior to joining Microsoft, she was selected as a postdoctoral CIFellow at Georgia Tech, where she received funding from the NSF to work on "Adversarially Robust Multimodal Misinformation Detection". Additionally, she was a recipient of the Dean’s Distinguished Fellowship Award for her Ph.D. studies at the University of California, Riverside (UCR). Her research during this time spanned various areas, including misinformation detection, deep fake video detection, and other NLP projects.
     </div>
   </div>
 
