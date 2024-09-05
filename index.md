@@ -19,8 +19,10 @@ title: "Home"
   <p style="font-size: 1.2em; color: #34495e;">
     Time: 10 AM - 1 PM
   </p>
+    <p style="font-size: 1.2em; color: #34495e;">
+      <img src="{{ site.baseurl }}/assets/images/overview.png" alt="Overview of the Tutorial" class="centered">
+  </p>
 </div>
-<img src="{{ site.baseurl }}/assets/images/overview.png" alt="Overview of the Tutorial" class="centered">
 
 
 {:.no_toc}
